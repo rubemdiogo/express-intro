@@ -1,0 +1,17 @@
+{
+  "name": "node-intro",
+  "version": "1.0.0",
+  "description": "Node introduction for Ironhack Web Dev Bootcamp",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rschpdr",
+  "license": "ISC"
+}
